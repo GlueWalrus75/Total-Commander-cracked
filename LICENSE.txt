@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-total-commander, total-commander-2026, ghisler-tc, file-manager, dual-panel, ftp-client, archive-plugins, pro-software-2026, trial-software, windows-software-2026    
+total-commander, total-commander-2026, ghisler-tc, file-manager, dual-panel, ftp-client, archive-plugins, pro-software-2026, trial-software, windows-software-2026     
